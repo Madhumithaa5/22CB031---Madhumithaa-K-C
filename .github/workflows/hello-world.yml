@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: print hello world
         run: echo "Hello World"
-      - name: print registration No
+      - name: print Registration No
         run: echo "711322110031"
       - name: print Name 
-        run: echo "Madhumithaa"
+        run: echo "Madhumithaa K C"
